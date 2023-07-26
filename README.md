@@ -16,3 +16,5 @@ Churn Analysis (Optional): If the dataset included customer churn information, c
 
 Data Visualization: Informative and visually appealing plots have been created to communicate the findings effectively.
 Actionable Insights: Key findings have been summarized and actionable insights for the e-commerce business have been provided. Strategies have been suggested to increase customer retention, improve sales, or enhance customer experience.
+
+Note: The dataset is in a zip file due to the size limitation in Git Hub.
